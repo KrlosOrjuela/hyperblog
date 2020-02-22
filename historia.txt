@@ -1,1 +1,3 @@
-Soy Carlos Orjuela, este es mi primer commit gif
+Soy Carlos Orjuela, este es mi primer commit gif...
+
+Ahora estoy haciendo un cambio 
