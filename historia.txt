@@ -1,3 +1,4 @@
 Soy Carlos Orjuela, este es mi primer commit gif...
+Ahora estoy haciendo un cambio
 
-Ahora estoy haciendo un cambio 
+Este es un nuevo cambio en el archivo txt; Despues de haber agregado un archivo html y css 
